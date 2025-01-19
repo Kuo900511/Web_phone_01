@@ -14,7 +14,7 @@ body {
 
 
 .container {
-    width: 90%;
+    width: 100%;
     max-width: 335px;
     background-color: white;
     /*box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);*/ /*這一行會讓再電腦上看時，手機頁面周圍有一圈陰影*/
