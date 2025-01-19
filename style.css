@@ -7,7 +7,7 @@ body {
     background-color: white;
     min-height: 100vh;
     font-family: Inter, sans-serif;
-    width: 410px; /* 固定頁面寬度 */
+    /*width: 410px;*/ /* 固定頁面寬度 */
     overflow-x: hidden; /* 禁止水平滾動 */
 }
 
